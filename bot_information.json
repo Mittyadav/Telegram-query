@@ -59,6 +59,9 @@
         {
             "username": "birdx2_bot",
             "url": "https://birdx.birds.dog"
-        }
+        },
+        {
+            "username": "DurovCapsBot",
+            "url": "https://capsbot.com"
     ]
 }
