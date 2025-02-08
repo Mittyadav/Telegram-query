@@ -6,10 +6,10 @@
 
 TelegramQueryIDFetcher is a powerful and easy-to-use tool for retrieving `query_id` from Telegram bots. This project uses the Pyrogram library to interact with the Telegram API and obtains the required data through WebView requests.
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedom)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/ScriptFreedomGroup)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/Scripthun0)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/Scripthub00)
 
-[English](#english) | [中文](README_Cn.md) | [Русский](README_Ru.md)
+[English](#english) 
 
 ## 🌟 Features
 
@@ -30,8 +30,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/TelegramQueryIDFetcher.git
-    cd TelegramQueryIDFetcher
+    git clone https://github.com/Mittyadav/Telegram-query.git
+    cd Telegram-query
     ```
 
 2. Install dependencies:
